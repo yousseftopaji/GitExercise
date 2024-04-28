@@ -1,5 +1,5 @@
 -pasta
 -banana
--pizza
+-kebab
 -something
 -something else
